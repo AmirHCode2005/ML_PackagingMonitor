@@ -1,4 +1,4 @@
-# 🗳 ML_PackagingMonitor Project
+# 🗳 ML_PackagingMonitor Project 
 
 ## 📘 **Overview**  
 This project demonstrates a **Voting Ensemble** machine learning pipeline for predicting a binary target on an imbalanced dataset.  
